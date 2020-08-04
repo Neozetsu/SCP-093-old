@@ -21,7 +21,7 @@
 ![Окно игры](https://i.postimg.cc/qRrj9cB7/image.png "Окно игры")
 
 ## Трейлер игры
-Скоро будет
+![Трейлер игры](https://youtu.be/ima1iJogQnk "Трейлер игры")
 
 ## Скриншоты с разработки
 ![Концепт-арт диска](https://i.postimg.cc/NjpsyDV3/image.png "Концепт-арт диска")
