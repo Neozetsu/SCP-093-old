@@ -16,6 +16,7 @@
 1. https://github.com/tend3r
 2. https://github.com/BroSmithBoris
 3. https://github.com/punahussy
+4. https://github.com/Egorka0708
 
 ## Окно игры
 ![Окно игры](https://i.postimg.cc/qRrj9cB7/image.png "Окно игры")
